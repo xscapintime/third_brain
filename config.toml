@@ -1,0 +1,43 @@
+baseURL = 'https://xscapintime.github.io/'
+languageCode = 'en-us'
+theme = 'flat'
+themesDir = "themes"
+enableRobotsTXT = true
+hasCJKLanguage = true
+paginate = 6
+enableEmoji = true
+
+
+# these values are hugo built in markup config
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = false
+noClasses = false
+noHl = false
+style = 'monokailight'
+tabWidth = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+          hardWraps = false
+          unsafe = true
+            xhtml = false
+
+
+
+[params]
+title = 'Notes'
+mainSections = ['posts']
+
+
+[taxonomies]
+  tag = 'tags'
+  project = 'projects'
+
