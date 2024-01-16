@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cal27 on Notes</title>
+    <link>https://xscapintime.github.io/tags/cal27/</link>
+    <description>Recent content in cal27 on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 11:45:42 -0500</lastBuildDate><atom:link href="https://xscapintime.github.io/tags/cal27/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Alpha Satellite</title>
+      <link>https://xscapintime.github.io/posts/human_alpha_satellite/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:42 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/posts/human_alpha_satellite/</guid>
+      <description>&lt;h2 id=&#34;cell-typeline&#34;&gt;Cell type/line &lt;a href=&#34;#cell-typeline&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Head and neck cancer epithelial cells, Cal27.&lt;/p&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method &lt;a href=&#34;#method&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;deeptools ComptueMatrix&lt;/code&gt; profiling&lt;/li&gt;
+&lt;li&gt;Only kept active HOR; one per chromosome&lt;/li&gt;
+&lt;li&gt;More consistent in length&lt;/li&gt;
+&lt;li&gt;Most of them &amp;gt; 1.0 mb except the one on chr21&lt;/li&gt;
+&lt;li&gt;Body length: 2.0 mb&lt;/li&gt;
+&lt;li&gt;Flanking: 2.0 mb each side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;input-and-histone-marks&#34;&gt;Input and histone marks &lt;a href=&#34;#input-and-histone-marks&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&#34;seletced-samples&#34;&gt;Seletced samples &lt;a href=&#34;#seletced-samples&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_input.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_k36me2.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_k27me3.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_k9me3.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;h3 id=&#34;all-samples&#34;&gt;All samples &lt;a href=&#34;#all-samples&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;assets/Picture1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;igv-screenshot-for-chr8&#34;&gt;IGV screenshot for chr8 &lt;a href=&#34;#igv-screenshot-for-chr8&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;&lt;img src=&#34;assets/Screenshot 2024-01-03 at 13.44.33.png&#34; width=&#34;80%&#34; /&gt;&lt;/center&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>satellite repeat on Notes</title>
+    <link>https://xscapintime.github.io/tags/satellite-repeat/</link>
+    <description>Recent content in satellite repeat on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 11:45:52 -0500</lastBuildDate><atom:link href="https://xscapintime.github.io/tags/satellite-repeat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mouse Major Satellite</title>
+      <link>https://xscapintime.github.io/posts/mouse_major_satellite/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:52 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/posts/mouse_major_satellite/</guid>
+      <description>&lt;h2 id=&#34;cell-typeline&#34;&gt;Cell type/line &lt;a href=&#34;#cell-typeline&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Mouse embryo fibroblast, C3H/10T1/2 (10T).&lt;/p&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method &lt;a href=&#34;#method&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Since there are still gaps in mm39 reference&lt;/li&gt;
+&lt;li&gt;Extract sequence-specific reads from fastq files using &lt;code&gt;seqkit&lt;/code&gt;, avoiding mapping (may also make it easy to compare ChIP-seq and cut&amp;amp;run …?)&lt;/li&gt;
+&lt;li&gt;“satellite-specific” sequence from Pailles et al. 2022&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+&lt;blockquote&gt;
+&lt;p&gt;“GACGACTTGAAAAATGACGAAATC|CATATTCCAGGTCCTTCAGTGTGC|GAAAAAGGTGGAAAATTTAGA|AGAAAACTGAAAATCATGGAAAAT|GATTTCGTCATTTTTCAAGTCGTC|GCACACTGAAGGACCTGGAATATG|TCTAAATTTTCCACCTTTTTC|ATTTTCCATGATTTTCAGTTTTCT”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;heatmap&#34;&gt;Heatmap &lt;a href=&#34;#heatmap&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;&lt;img src=&#34;assets/17053397160584.jpg&#34; style=&#34;zoom:70%;&#34;/&gt;&lt;/center&gt;
+&lt;h2 id=&#34;boxplot&#34;&gt;Boxplot &lt;a href=&#34;#boxplot&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;&lt;img src=&#34;assets/17053397645021.jpg&#34; style=&#34;zoom:70%;&#34;/&gt;&lt;/center&gt;
+&lt;h3 id=&#34;split-h3k36m3-samples-by-antibodies&#34;&gt;Split H3K36m3 samples by antibodies &lt;a href=&#34;#split-h3k36m3-samples-by-antibodies&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;AM: Active Motif, cross-react with H3K36me2&lt;/li&gt;
+&lt;li&gt;IV: Invitrogen, cross-react with H3K9me3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;assets/17053398445975.jpg&#34; style=&#34;zoom:70%;&#34;/&gt;&lt;/center&gt;
+&lt;h2 id=&#34;ref&#34;&gt;Ref. &lt;a href=&#34;#ref&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Pailles, Mélanie, Mélanie Hirlemann, Vincent Brochard, Martine Chebrout, Jean-François Oudin, Hendrik Marks, Alice Jouneau, and Amélie Bonnet-Garnier. 2022. “H3K27me3 at Pericentromeric Heterochromatin Is a Defining Feature of the Early Mouse Blastocyst.” Scientific Reports 12 (1): 13908. &lt;a href=&#34;https://doi.org/10.1038/s41598-022-17730-x&#34;&gt;https://doi.org/10.1038/s41598-022-17730-x&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human Alpha Satellite</title>
+      <link>https://xscapintime.github.io/posts/human_alpha_satellite/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:42 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/posts/human_alpha_satellite/</guid>
+      <description>&lt;h2 id=&#34;cell-typeline&#34;&gt;Cell type/line &lt;a href=&#34;#cell-typeline&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Head and neck cancer epithelial cells, Cal27.&lt;/p&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method &lt;a href=&#34;#method&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;deeptools ComptueMatrix&lt;/code&gt; profiling&lt;/li&gt;
+&lt;li&gt;Only kept active HOR; one per chromosome&lt;/li&gt;
+&lt;li&gt;More consistent in length&lt;/li&gt;
+&lt;li&gt;Most of them &amp;gt; 1.0 mb except the one on chr21&lt;/li&gt;
+&lt;li&gt;Body length: 2.0 mb&lt;/li&gt;
+&lt;li&gt;Flanking: 2.0 mb each side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;input-and-histone-marks&#34;&gt;Input and histone marks &lt;a href=&#34;#input-and-histone-marks&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&#34;seletced-samples&#34;&gt;Seletced samples &lt;a href=&#34;#seletced-samples&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_input.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_k36me2.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_k27me3.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&#34;assets/matrix.cal27_k9me3.2mdist.100kbin.activehor.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;h3 id=&#34;all-samples&#34;&gt;All samples &lt;a href=&#34;#all-samples&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;assets/Picture1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;igv-screenshot-for-chr8&#34;&gt;IGV screenshot for chr8 &lt;a href=&#34;#igv-screenshot-for-chr8&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;&lt;img src=&#34;assets/Screenshot 2024-01-03 at 13.44.33.png&#34; width=&#34;80%&#34; /&gt;&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centromeric satellite background knowledge</title>
+      <link>https://xscapintime.github.io/posts/centromeric_satellite_background/</link>
+      <pubDate>Mon, 15 Jan 2024 10:40:02 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/posts/centromeric_satellite_background/</guid>
+      <description>&lt;h2 id=&#34;chromosome-morphology&#34;&gt;Chromosome morphology &lt;a href=&#34;#chromosome-morphology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;&lt;img src=&#34;https://xscapintime.github.io/pics/17053334898727.jpg&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;p&gt;Figure from&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;human-alpha-satellite-and-hor&#34;&gt;Human alpha satellite and HOR &lt;a href=&#34;#human-alpha-satellite-and-hor&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Alpha satellite: 171 bp&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;higher order repeat (HOR)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Live/active HOR&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Longer&lt;/li&gt;
+&lt;li&gt;Higher Average methylation&lt;/li&gt;
+&lt;li&gt;Hypomethylation dip for CENP binding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dead/inactive HOR&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Available reference/annotation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;T2T CHM13 (complete)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Censat track&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;pics/Screenshot 2024-01-15 at 11.04.24.png&#34; width=&#34;70%&#34; /&gt;&lt;/center&gt;
+&lt;p&gt;Figure from&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;mouse-major-and-minor-satellite&#34;&gt;Mouse major and minor satellite &lt;a href=&#34;#mouse-major-and-minor-satellite&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Major satellite: 234 bp&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Minor satellite: 120 bp&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Available reference/annotation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mm39 (first 3.0 mb of each chromosome is empty)&lt;/li&gt;
+&lt;li&gt;repeatmasker track&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ref&#34;&gt;Ref. &lt;a href=&#34;#ref&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Potapova, Tamara A., and Jennifer L. Gerton. 2019. “Ribosomal DNA and the Nucleolus in the Context of Genome Organization.” Chromosome Research 27 (1): 109–27. &lt;a href=&#34;https://doi.org/10.1007/s10577-018-9600-5&#34;&gt;https://doi.org/10.1007/s10577-018-9600-5&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Gershman, Ariel, Michael E. G. Sauria, Xavi Guitart, Mitchell R. Vollger, Paul W. Hook, Savannah J. Hoyt, Miten Jain, et al. 2022. “Epigenetic Patterns in a Complete Human Genome.” Science 376 (6588): eabj5089. &lt;a href=&#34;https://doi.org/10.1126/science.abj5089&#34;&gt;https://doi.org/10.1126/science.abj5089&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

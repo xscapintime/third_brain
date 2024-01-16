@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: https://xscapintime.github.io/sitemap.xml

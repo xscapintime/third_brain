@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Notes</title>
+    <link>https://xscapintime.github.io/tags/</link>
+    <description>Recent content in Tags on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 11:45:52 -0500</lastBuildDate><atom:link href="https://xscapintime.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10T</title>
+      <link>https://xscapintime.github.io/tags/10t/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:52 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/tags/10t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChIP-seq</title>
+      <link>https://xscapintime.github.io/tags/chip-seq/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:52 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/tags/chip-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>satellite repeat</title>
+      <link>https://xscapintime.github.io/tags/satellite-repeat/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:52 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/tags/satellite-repeat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cal27</title>
+      <link>https://xscapintime.github.io/tags/cal27/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:42 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/tags/cal27/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

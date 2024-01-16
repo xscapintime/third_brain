@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Notes</title>
+    <link>https://xscapintime.github.io/projects/</link>
+    <description>Recent content in Projects on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 11:45:52 -0500</lastBuildDate><atom:link href="https://xscapintime.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pericentromeric satellites</title>
+      <link>https://xscapintime.github.io/projects/pericentromeric-satellites/</link>
+      <pubDate>Mon, 15 Jan 2024 11:45:52 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/projects/pericentromeric-satellites/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
