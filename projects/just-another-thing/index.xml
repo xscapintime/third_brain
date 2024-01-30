@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>just another thing on Notes</title>
+    <link>https://xscapintime.github.io/projects/just-another-thing/</link>
+    <description>Recent content in just another thing on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 13:20:04 -0500</lastBuildDate><atom:link href="https://xscapintime.github.io/projects/just-another-thing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://xscapintime.github.io/posts/test/</link>
+      <pubDate>Mon, 15 Jan 2024 13:20:04 -0500</pubDate>
+      
+      <guid>https://xscapintime.github.io/posts/test/</guid>
+      <description>&lt;h2 id=&#34;test&#34;&gt;test &lt;a href=&#34;#test&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;description in yaml length &amp;hellip;&amp;hellip;..&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
