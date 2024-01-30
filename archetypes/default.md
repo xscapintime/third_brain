@@ -1,6 +1,6 @@
 +++
 title = '{{ replace .File.ContentBaseName "_" " " | title }}'
-date = {{ .Lastmod }}
+date = {{ .Date }}
 draft = false
 description = " "
 tags = []
