@@ -163,7 +163,7 @@ body {
 .footer,
 .main,
 .side-recent,
-.side-projects,
+/* .side-projects, */
 .side-tags
 {
   background-color: var(--color-bg-content);
@@ -333,8 +333,8 @@ body {
 
 .list-item .title { margin: var(--len-2) 0 var(--len-3) 0; }
 
-.list-item .tags > *,
-.list-item .projects > *
+.list-item .tags > *
+/* .list-item .projects > * */
 { margin: 0 var(--len-1); }
 
 .list-item .summary > * { margin: 0; }
