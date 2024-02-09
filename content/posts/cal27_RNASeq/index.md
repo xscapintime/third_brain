@@ -35,3 +35,7 @@ projects = ["pericentromeric satellites"]
 ![](assets/17069060602434.jpg)
 
 
+## 2.Density profile around centromeric higher order repeat (HOR)
+![](assets/17074943173161.jpg)
+ ![](assets/17074943995374.jpg)
+ 
